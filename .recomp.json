@@ -32,5 +32,5 @@
       "url": "https://ko-fi.com/krogger"
     }
   ],
-  "notes": "Plays the 100 m. Menus run at 60 fps; events run at 30 fps because the game asks for that itself (its frame interval is 2 there). Tested on Windows 11 and on the Linux mini PC by playing into the first real scene (mini PC: the 100 m). Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
+  "notes": "Plays the 100 m. Menus run at 60 fps; events run at 30 fps because the game asks for that itself (its frame interval is 2 there). Tested on Windows 11 and on the Linux mini PC by playing into the first real scene (mini PC: the 100 m, 59.7 pictures shown a second). Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
 }
